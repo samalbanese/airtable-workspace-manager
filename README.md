@@ -65,7 +65,7 @@ All screenshots use the built-in sample data.
 
 ## Download and install
 
-Download the installer for your computer from the [latest release](https://github.com/samalbanese/airtable-workspace-manager/releases/latest).
+Download the installer for your computer from the [latest release](https://github.com/relaywright/airtable-workspace-manager/releases/latest).
 
 The installers aren't signed yet. Signing certificates cost money every year and this is a free project, so the first time you open the app your computer will warn you that it doesn't recognize the developer. Here's how to get past that warning on each system.
 

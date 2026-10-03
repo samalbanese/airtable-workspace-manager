@@ -4,7 +4,7 @@
   "private": true,
   "description": "Desktop app for visualizing and managing Airtable workspace architecture",
   "license": "MIT",
-  "author": "Sam Albanese",
+  "author": "relaywright",
   "keywords": [
     "airtable",
     "electron",
