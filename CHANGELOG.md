@@ -30,6 +30,13 @@ project uses semantic versioning once a stable release ships.
   the finished commit's author and committer before going on, and stops if a Git identity
   variable names anyone else.
 
+### Security
+
+- Updated `electron` from 44.4.5 to 44.9.3 (Chromium and Node security fixes on the supported 44 line).
+- Updated the transitive `undici` packages (6.28.1 to 6.29.1, 7.29.1 to 7.30.1 and 8.11.2 to 8.12.3), the fix
+  for the October 2026 undici advisories (TLS validation bypass, cache poisoning, denial of service),
+  and `fast-uri` to 3.1.9 for its host confusion advisories.
+
 ## [0.1.0] - 2026-10-01
 
 First public release of Airtable Workspace Manager: a free, local-first desktop app for
